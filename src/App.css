@@ -328,10 +328,34 @@ li {
     font-weight: 300;
 }
 
-@media (min-width: 992px) {
-    /* .side-bar {
-        width: 25%;
-    } */
+@media (max-width: 575px) {
+    .side-bar {
+        display: none;
+    }
+    .header {
+        height: 400px;
+    }
+    .header .header-content {
+        padding: 60px 20px 20px 20px;
+    }
+    .header .header-content p {
+        padding: 0 10px 0 10px;
+        font-size: 10px;
+    }
+    .header .header-content h2 {
+        font-size: 12px;
+    }
+    .header .header-content h1 {
+        font-size: 20px;
+        margin: 10px 0px 10px 0px;
+    }
+    .header .header-content p {
+        margin: 0px 0px 20px 0px;
+    }
+    .header .header-content a {
+        padding: 5px 10px 5px 10px;
+        font-size: 10px;
+    }
 }
 
 @media (min-width: 992px) {
