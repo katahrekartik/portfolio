@@ -9,10 +9,10 @@ const Header = () =>{
     return (
         <div className="header">
             <div className="header-content">
-                <h2>Hello I m</h2>
+                <h2>Web developer</h2>
                 <h1>Kartik Katahre</h1>
                 <p>Looking for an entry-level position to begin my career in a Professional environment to utilize my skills for the growth of the Organization as well as to enhance my knowledge and existing Skills. I wish to be part of success in an environment of growth and excellence.</p>
-                <a href="/portfolio/assets/docs/resume.pdf">Download resume</a>
+                <a href="/portfolio/assets/docs/resume.pdf" target="blank">Download resume</a>
             </div>
         </div>
 
