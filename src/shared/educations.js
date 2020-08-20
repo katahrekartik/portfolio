@@ -1,0 +1,25 @@
+export const EDUCATIONS = [{
+        id: 0,
+        title: 'BTech',
+        schoolName: 'IIITDMJ',
+        educationYear: '2016-2020',
+        onClick: 'toggleBtech',
+        isOpen: 'isOpenBtech',
+    },
+    {
+        id: 1,
+        title: '11th',
+        school: 'IIITDMJ',
+        year: '2015',
+        onClick: 'toggle12',
+        isOpen: 'isOpen12',
+    },
+    {
+        id: 3,
+        title: '12th',
+        school: 'IIITDMJ',
+        year: '2013',
+        onClick: 'toggle10',
+        isOpen: 'isOpen10',
+    },
+];
