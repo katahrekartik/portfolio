@@ -1,7 +1,7 @@
 export const PROJECTS = [{
         id: 0,
         projectName: 'Restaurant Application',
-        projectImage: '/assets/images/restaurant.jpg',
+        projectImage: '/portfolio/assets/images/restaurant.jpg',
         githubLink: 'https://github.com/katahrekartik/restaurant',
         liveLink: 'http://myassignments.byethost24.com/foodzone/',
         projectreport: '',
@@ -12,7 +12,7 @@ export const PROJECTS = [{
     {
         id: 1,
         projectName: 'Form Builder',
-        projectImage: '/assets/images/form.jpg',
+        projectImage: '/portfolio/assets/images/form.jpg',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/formbuilder.github.io',
         liveLink: 'https://katahrekartik.github.io/formbuilder.github.io/',
@@ -23,9 +23,9 @@ export const PROJECTS = [{
     {
         id: 2,
         projectName: 'Travable - A portal for travel agents',
-        projectImage: '/assets/images/travel.jpg',
+        projectImage: '/portfolio/assets/images/travel.jpg',
         tools: 'HTML,CSS,Javascript',
-        projectreport: '/assets/docs/projectreport.pdf',
+        projectreport: '/portfolio/assets/docs/projectreport.pdf',
         githubLink: '',
         liveLink: '',
         projectDescription: 'This is project description This is project description This is project description ',
@@ -33,9 +33,9 @@ export const PROJECTS = [{
     {
         id: 3,
         projectName: 'Event Management Application',
-        projectImage: '/assets/images/event.png',
+        projectImage: '/portfolio/assets/images/event.png',
         tools: 'HTML,CSS,Javascript',
-        projectreport: '/assets/docs/projectreport.pdf',
+        projectreport: '/portfolio/assets/docs/projectreport.pdf',
         githubLink: '',
         liveLink: '',
         projectDescription: 'This is project description This is project description This is project description ',
@@ -43,7 +43,7 @@ export const PROJECTS = [{
     {
         id: 4,
         projectName: 'Educational Website',
-        projectImage: '/assets/images/education.jpg',
+        projectImage: '/portfolio/assets/images/education.jpg',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/mobishaala.assignment',
         liveLink: 'https://katahrekartik.github.io/mobishaala.assignment/',
@@ -53,7 +53,7 @@ export const PROJECTS = [{
     {
         id: 5,
         projectName: 'Car rentals',
-        projectImage: '/assets/images/car.jpg',
+        projectImage: '/portfolio/assets/images/car.jpg',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/assignment.whitepanda',
         liveLink: 'https://katahrekartik.github.io/carrentals/',
@@ -63,7 +63,7 @@ export const PROJECTS = [{
     {
         id: 6,
         projectName: 'Fusion - College  project',
-        projectImage: '/assets/images/fusion.jpg',
+        projectImage: '/portfolio/assets/images/fusion.jpg',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/Fusion',
         liveLink: '',
@@ -73,7 +73,7 @@ export const PROJECTS = [{
     {
         id: 7,
         projectName: 'Smart Bin application',
-        projectImage: '/assets/images/smartbin.jpg',
+        projectImage: '/portfolio/assets/images/smartbin.jpg',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/Smart-bin-android-application',
         liveLink: '',
@@ -83,7 +83,7 @@ export const PROJECTS = [{
     {
         id: 8,
         projectName: 'Landing page',
-        projectImage: '/assets/images/landing.png',
+        projectImage: '/portfolio/assets/images/landing.png',
         tools: 'HTML,CSS,Javascript',
         githubLink: 'https://github.com/katahrekartik/quilhash.github.io',
         liveLink: 'https://katahrekartik.github.io/quilhash.github.io/',
